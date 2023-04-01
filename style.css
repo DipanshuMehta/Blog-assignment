@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  width: 100vw;
+  background-color: black;
+}
+
+.first {
+  background-color: black;
+  width: 70%;
+}
+
+.navitems {
+  color: white;
+  background-color: black;
+  list-style-type: none;
+  display: flex;
+  margin-left: -40px;
+  text-decoration: none;
+}
+
+.navitems li {
+  padding: 10px;
+}
+.navitems li a{
+  text-decoration: none;
+  color: white;
+}
+
+li:hover {
+  background-color: blue;
+}
+h2{
+  color: black;
+  background-color: green;
+  padding: 2px;
+  margin: 2px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  display: inline;
+  padding: 8px
+}
+.header{
+  color: black;
+  background-color: green;
+  text-align: center;
+  text-align: justify;
+  width: 32%;
+  padding: 3px;
+  margin: 3px;
+}
+.second{
+  color: black;
+  background-color: green;
+  text-align: center;
+  text-align: justify;
+  width: 32%;
+  padding: 1px;
+  margin: -3px;
+  display: flex;
+  margin-left: 33%;
+  margin-top: -56px;
+}
+.third{
+  color: black;
+  background-color: green;
+  text-align: center;
+  text-align: justify;
+  width: 32%;
+  margin: -1px;
+  margin-left: 66%;
+  margin-top: -5%;
+}
+body{
+  background-color: green;
+}
+.fourth{
+  color: black;
+  background-color: green;
+  text-align: center;
+  text-align: justify;
+  width: 32%;
+  padding: 1px;
+  margin: -3px;
+  display: flex;
+  margin-left: 33%;
+  margin-top: -70px;
+}
+.fifth{
+  color: black;
+  background-color: green;
+  text-align: center;
+  text-align: justify;
+  width: 32%;
+  display: flex;
+  margin-left: 67%;
+  margin-top: -98px;
+}
+.sixth{
+  color: black;
+  background-color: green;
+  text-align: center;
+  text-align: justify;
+  width: 32%;
+  padding: 1px;
+  margin: -3px;
+  display: flex;
+  margin-left: 33%;
+  margin-top: -130px;
+}
+.seventh{
+  color: black;
+  background-color: green;
+  text-align: center;
+  text-align: justify;
+  width: 32%;
+  display: flex;
+  margin-left: 67%;
+  margin-top: -140px;
+}
